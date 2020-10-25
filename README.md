@@ -1,7 +1,5 @@
 ### Heyyo, I'm [Aakarsh][website] 👋
 
-[![Website](https://img.shields.io/website?label=Aakarsh&style=for-the-badge&url=https%3A%2F%2FAakarsh-B.github.io)](https://Aakarsh-B.github.io)
-
 ## I'm a Designer, Developer and a Dreamer!
 
 - 🌱 I’m currently learning Javascript 🤣
