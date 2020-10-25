@@ -1,3 +1,6 @@
+![alt text](https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful Simple Science Class Education Presentation.png?raw=true)
+
+
 ### Heyyo, I'm [Aakarsh][website] 👋
 
 ## I'm a Designer, Developer and a Dreamer!
