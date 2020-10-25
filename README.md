@@ -1,4 +1,4 @@
-![alt text](https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful Simple Science Class Education Presentation.png?raw=true)
+![alt text](https://github.com/Aakarsh-B/trying-repos/blob/master/img.png?raw=true)
 
 
 ### Heyyo, I'm [Aakarsh][website] 👋
