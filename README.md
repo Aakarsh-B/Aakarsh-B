@@ -1,15 +1,15 @@
 ![alt text](https://github.com/Aakarsh-B/trying-repos/blob/master/img2.png?raw=true)
 <br/>
-## Heyyo, I'm [Aakarsh][website] 👋
+<br/>
+## Heyyo, I'm [Aakarsh][website]!👋
 
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning a bit of everything
+- 👯 I’m looking to collaborate new people
+- 🥅 Next Milestone: UI/UX Specialization
+- ⚡ Fun fact: I love to make 3D models and play Among Us
+<br/>
+<br/>
 
-### My Spotify Playlist 🎧
-
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 
 ### Connect with me:
 
@@ -43,6 +43,12 @@
 - [Buttons - Rounded Corners or Sharp?](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
+
+### Now Playing 🎧
+
+[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
 ---
 
 [![Aakarsh's github stats](https://github-readme-stats-dusky-three.vercel.app/api?username=Aakarsh-B&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
