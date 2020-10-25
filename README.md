@@ -1,11 +1,8 @@
-![alt text](https://github.com/Aakarsh-B/trying-repos/blob/master/img.png?raw=true)
+![alt text](https://github.com/Aakarsh-B/trying-repos/blob/master/img2.png?raw=true)
+<br/>
+## Heyyo, I'm [Aakarsh][website] 👋
 
-
-### Heyyo, I'm [Aakarsh][website] 👋
-
-## I'm a Designer, Developer and a Dreamer!
-
-- 🌱 I’m currently learning Javascript 🤣
+- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
