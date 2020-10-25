@@ -9,11 +9,11 @@
 - 🥅 Next Milestone: **UI/UX Specialization**
 - ⚡ Fun fact: **I love to make 3D models and play Among Us**
 <br/>
-[<img align="left" alt="Aakarsh-B.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Aakarsh B | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />][medium]
+<a href="https://Aakarsh-B.github.io" target="_blank"><img align="left" alt="Aakarsh-B.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://medium.com/@aakarshbiju" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 
 <br />
 <br />
@@ -64,10 +64,3 @@
 ---
 
 [![Aakarsh's github stats](https://github-readme-stats-dusky-three.vercel.app/api?username=Aakarsh-B&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[website]: https://Aakarsh-B.github.io
-[twitter]: https://twitter.com/Aakarsh-B
-[instagram]: https://instagram.com/_.aakarsh._
-[linkedin]: https://linkedin.com/in/aakarshb
-[medium]: https://medium.com/@aakarshbiju
