@@ -9,7 +9,7 @@
 
 ### My Spotify Playlist 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="My Current Spotify Playlist" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://novatorem-98dzrrfda.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 
 ### Connect with me:
 
