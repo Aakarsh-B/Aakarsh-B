@@ -1,7 +1,7 @@
 ![alt text](https://github.com/Aakarsh-B/trying-repos/blob/master/img2.png?raw=true)
 <br/>
 <br/>
-## Heyyo, I'm [Aakarsh][website]!👋
+## Heyyo, I'm <a href="https://Aakarsh-B.github.io" target="_blank">Aakarsh</a>!👋
 
 - 🌱 I’m currently **learning a bit of everything**
 - 👯 I’m looking to **collaborate new people**
