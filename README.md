@@ -47,7 +47,7 @@
 
 ---
 
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Aakarsh's github stats](https://github-readme-stats-dusky-three.vercel.app/api?username=Aakarsh-B&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://Aakarsh-B.github.io
