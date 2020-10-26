@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently **learning a bit of everything**
 - 👯 I’m looking to **collaborate new people**
-- 💬 Ask me about **UI/UX design and front end dev**
-- 🥅 Next Milestone: **UI/UX Specialization**
+- 💬 Ask me about **UI/UX design.**
+- 🥅 Next Milestone: **Front End Development Course**
 - ⚡ Fun fact: **I love to make 3D models and play Among Us**
 <br/>
 <a href="https://Aakarsh-B.github.io" target="_blank"><img align="left" alt="Aakarsh-B.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
