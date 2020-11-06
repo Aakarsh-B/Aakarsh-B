@@ -1,4 +1,4 @@
-![alt text](https://github.com/Aakarsh-B/trying-repos/blob/master/img2.png?raw=true)
+![alt text](https://github.com/Aakarsh-B/trying-repos/blob/master/heh.png?raw=true)
 <br/>
 <br/>
 ## Heyyo, I'm <a href="https://Aakarsh-B.github.io" target="_blank">Aakarsh</a>!👋
