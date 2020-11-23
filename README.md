@@ -55,6 +55,7 @@
 ### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
 - [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
 <!-- BLOG-POST-LIST:END -->
 
