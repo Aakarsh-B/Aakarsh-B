@@ -4,10 +4,9 @@
 ## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!👋
 
 - 🌱 I’m currently **learning a bit of everything**
-- 👯 I’m looking to **collaborate new people**
-- 💬 Ask me about **UI/UX design.**
-- 🥅 Next Milestone: **Front End Development Course**
-- ⚡ Fun fact: **I love to make 3D models and play Among Us**
+- 💬 Ask me anything about **UI/UX design.**
+- 🥅 Next Milestone: **Front End Development**
+- ⚡ Fun fact: **I love to make 3D models from time to time**
 <br/>
 <a href="https://Aakarsh-B.github.io" target="_blank"><img align="left" alt="Aakarsh-B.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
