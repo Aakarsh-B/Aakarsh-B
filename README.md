@@ -1,13 +1,14 @@
-![alt text](https://github.com/Aakarsh-B/trying-repos/blob/master/heh.png?raw=true)
-<br/>
-<br/>
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!👋
+### 📕 Latest Blog Post
 
-- 🌱 I’m currently **learning a bit of everything**
-- 💬 Ask me anything about **UI/UX design.**
-- 🥅 Next Milestone: **Front End Development**
-- ⚡ Fun fact: **I love to make 3D models from time to time**
+<!-- BLOG-POST-LIST:START -->
+- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
+- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
+- [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
+<!-- BLOG-POST-LIST:END -->
+
 <br/>
+### Connect
+
 <a href="https://Aakarsh-B.github.io" target="_blank"><img align="left" alt="Aakarsh-B.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" />
@@ -47,15 +48,7 @@
 
 ---
 
-### 📕 Latest Blog Post
 
-<!-- BLOG-POST-LIST:START -->
-- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
-- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
-- [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
 
 ### Now Playing 🎧
 
