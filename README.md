@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
+## Heyyo, I'm <a href="https://aakarsh.design" target="_blank">Aakarsh</a>!
 (Use dark theme to find my socials ;)
 
 <a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
